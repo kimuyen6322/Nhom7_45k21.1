@@ -1,0 +1,3 @@
+D:\Nhóm6QTCSDL\Formchinh\Formchinh\bin\Debug\Formchinh.exe.config
+D:\Nhóm6QTCSDL\Nhom7_45k21.1\Formchinh\Formchinh\bin\Debug\Formchinh.exe.config
+D:\Nhóm6QTCSDL\Nhom7_45k21.1\Nhom7_45k21.1\Formchinh\Formchinh\bin\Debug\Formchinh.exe.config

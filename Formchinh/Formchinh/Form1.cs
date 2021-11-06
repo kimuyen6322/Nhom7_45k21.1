@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Formchinh
 {
-    public partial class DangNhap : Form
+    public partial class Form1 : Form
     {
-        public DangNhap()
+        public Form1()
         {
             InitializeComponent();
         }
 
-        private void DangNhap_Load(object sender, EventArgs e)
+        private void tàiKhoảnToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }

@@ -1,6 +1,7 @@
-﻿namespace Formchinh
+﻿
+namespace WindowsFormsApp1
 {
-    partial class DangNhap
+    partial class Form1
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +31,14 @@
         {
             this.SuspendLayout();
             // 
-            // DangNhap
+            // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(881, 356);
-            this.Name = "DangNhap";
-            this.Text = "DangNhap";
-            this.Load += new System.EventHandler(this.DangNhap_Load);
+            this.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Custom_Web_Application;
+            this.ClientSize = new System.Drawing.Size(1363, 490);
+            this.Name = "Form1";
+            this.Text = "Form1";
             this.ResumeLayout(false);
 
         }
@@ -45,3 +46,4 @@
         #endregion
     }
 }
+
